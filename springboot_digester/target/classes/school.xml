@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<school>
+  <class code="001" Title="一年一班">
+	<teacher name="张三"/>
+    <student code="01" name="小明"/>
+	<student code="02" name="小红"/>
+  </class>
+
+   <class code="002" Title="一年二班">
+	<teacher name="李四"/>
+    <student code="01" name="小王"/>
+  </class>
+</school>

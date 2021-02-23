@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<books>
+    <book>
+        <title>西游记</title>
+        <description>西天取经的故事</description>
+        <person>孙悟空</person>
+        <person>猪八戒</person>
+    </book>
+    <book>
+        <title>三国演义</title>
+        <description>历史故事</description>
+        <person>诸葛亮</person>
+        <person>刘备</person>
+    </book>
+</books>
